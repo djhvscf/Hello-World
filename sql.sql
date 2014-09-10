@@ -1,4 +1,1 @@
-SET SERVEROUTPUT ON;
-BEGIN
-    DBMS_OUTPUT.PUT_LINE('Hello, world!');
-END;
+SELECT 'Hello, world!'
